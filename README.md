@@ -3,7 +3,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chendaniely/2023-12-12-python/main) <- Click me
 
-Install Python using Anaconda: https://www.anaconda.com/distribution/
+Install Python using Anaconda: https://www.anaconda.com/download
 
 We will be using the Jupyter Notebook (via jupyter lab) which is pre-installed with the Anaconda distribution
 
